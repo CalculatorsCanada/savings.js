@@ -1,5 +1,5 @@
 /*!
- * cc-savings.js v0.1.2
+ * cc-savings.js v0.1.0
  * Copyright 2014, Calculators Canada
  *
  * Freely distributable under the MIT license.
