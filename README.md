@@ -16,4 +16,4 @@ Developed by [@CalculatorsCa](https://twitter.com/CalculatorsCa) and some excell
 
 ### More info:
 
-More demos and documentation on the **[cc-savings.js homepage](http://calculatorscanada.github.io/savings.js/)** or working copy of calculator at **[calculatorscanada.ca/savings-interest-calculator/]([http://savings.calculatorscanada.ca](https://calculatorscanada.ca/savings-interest-calculator/)**. Enjoy!
+More demos and documentation on the **[cc-savings.js homepage](http://calculatorscanada.github.io/savings.js/)** or working copy of calculator at **[calculatorscanada.ca/savings-interest-calculator/](https://calculatorscanada.ca/savings-interest-calculator/)**. Enjoy!
